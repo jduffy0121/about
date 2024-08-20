@@ -1,4 +1,5 @@
-- Student at: Auburn University
-- Studying: Physics, Computer Science, and Applied Math
-- Currently Working: UNO (Ultrafast Nonlinear Optics) Research Group at Auburn University
-- Research Interest: Computational Physics, Condensed Matter Physics, Learning Algorithms, Numerical Analysis
+- Student at: 📚 Auburn University
+- Studying: ⚛ Physics,  💻 Computer Science, and 📊 Applied Math
+- Currently Working: 💎 UNO (Ultrafast Nonlinear Optics) Research Group at Auburn University
+- Research Interest: 🖥️ Computational Physics, 🧩 Condensed Matter Physics, 🧠 Learning Algorithms, 📉 Numerical Analysis
+- Contact Information: [email](mailto: jod0007@auburn.edu)
