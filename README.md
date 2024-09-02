@@ -4,6 +4,6 @@ I am a ⚛ Physics, 💻 Computer Science, and 📊 Applied Math undergraduate s
   
 ## 📫 Contact Information 
 - Email: jod0007@auburn.edu
-- Website: *Coming Soon*
+- Website: [jduffy0121.github.io](https://jduffy0121.github.io/)
   
-*Last updated: 8/25/24*
+*Last updated: 09/01/24*
